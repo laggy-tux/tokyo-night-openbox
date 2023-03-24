@@ -12,6 +12,7 @@ personal tokyo night theming :)
 > bar: polybar
 
 > menu: rofi
+
 *dependencies*:
 
 >rofi:https://wiki.archlinux.org/title/rofi
