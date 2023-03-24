@@ -1,6 +1,8 @@
 # tokyo-night
 personal tokyo night theming :)
 
+**note**
+none of this are my own. all the credit goes to the creaters of the various files used in this rice
 
 *details*:
 > wm: openbox
@@ -20,4 +22,5 @@ personal tokyo night theming :)
 >polybar:https://github.com/polybar/polybar
 
 ![image](https://user-images.githubusercontent.com/85402808/227523357-daffef52-47b7-457b-9c72-83257e5a4b33.png)
-![Screenshot_2023-03-24-18-26-45_1600x900](https://user-images.githubusercontent.com/85402808/227527251-83c3ece7-bb31-41b3-8878-2b6879d2f206.png)
+![Screenshot_2023-03-24-18-26-45_1600x900](https://user-images.githubusercontent.com/85402808/227531162-1e86c863-23f3-4614-bb37-1385aacc1293.png)
+
