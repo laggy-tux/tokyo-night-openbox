@@ -1,7 +1,7 @@
 # tokyo-night
 personal tokyo night theming :)
 
-**note**
+**note**:
 none of this are my own. all the credit goes to the creaters of the various files used in this rice
 
 *details*:
