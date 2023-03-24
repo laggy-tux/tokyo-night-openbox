@@ -32,11 +32,11 @@ none of this are my own. all the credit goes to the creaters of the various file
 
 *How To*:
 
--paste the needed files inside the given folders
+- paste the needed files inside the given folders
 
   > eg. the tokyo theme : .config/openbox-themes/*tokyo*(this is the file stucture on archcraft,i guess its the same for other distros with openbox)
 
--install the given gtk theme and paste it in */usr/share/themes/*
+- install the given gtk theme and paste it in */usr/share/themes/*
 
 - now for the browser theming install nighttab's plugin: go to settings/data/import file and import the .json file and voila the config will be updated!
 
