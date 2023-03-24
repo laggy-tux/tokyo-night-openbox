@@ -32,7 +32,7 @@ none of this are my own. all the credit goes to the creaters of the various file
 
 *How To*:
 
- -paste the needed files inside the given folders
+-paste the needed files inside the given folders
 
   > eg. the tokyo theme : .config/openbox-themes/*tokyo*(this is the file stucture on archcraft,i guess its the same for other distros with openbox)
 
