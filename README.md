@@ -40,4 +40,6 @@ none of this are my own. all the credit goes to the creaters of the various file
 
 - to download the grub theme if u need that aswell
 
+- apply everything 
+
 retart to see the magic
