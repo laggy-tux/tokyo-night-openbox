@@ -22,5 +22,6 @@ none of this are my own. all the credit goes to the creaters of the various file
 >polybar:https://github.com/polybar/polybar
 
 ![image](https://user-images.githubusercontent.com/85402808/227523357-daffef52-47b7-457b-9c72-83257e5a4b33.png)
-![Screenshot_2023-03-24-18-26-45_1600x900](https://user-images.githubusercontent.com/85402808/227531162-1e86c863-23f3-4614-bb37-1385aacc1293.png)
+![Screenshot_2023-03-24-18-45-03_1600x900](https://user-images.githubusercontent.com/85402808/227532242-04b0598d-c553-483f-a8e7-d8821639065c.png)
+
 
