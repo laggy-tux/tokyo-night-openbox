@@ -38,6 +38,8 @@ none of this are my own. all the credit goes to the creaters of the various file
 
 -install the given gtk theme and paste it in */usr/share/themes/*
 
+- now for the browser theming install nighttab's plugin: go to settings/data/import file and import the .json file and voila the config will be updated!
+
 - to download the grub theme if u need that aswell
 
 - apply everything 
