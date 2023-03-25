@@ -5,7 +5,7 @@ personal tokyo night theming :)
 none of this are my own. all the credit goes to the creaters of the various files used in this rice\
 
 **note(temp)**:
-the autosetup is not setup and will be done in the coming week 
+``the autosetup is not setup and will be done in the coming week ``
 
 *details*:
 > wm: openbox
