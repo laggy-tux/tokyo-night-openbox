@@ -4,8 +4,23 @@ personal tokyo night theming :)
 **note**:
 none of this are my own. all the credit goes to the creaters of the various files used in this rice\
 
-**note(temp)**:
-``the autosetup is not setup and will be done in the coming week ``
+**applyscript is now available:**
+
+to install:
+> open thunar and go to the place u have downloaded the file
+
+> "open terminal here" 
+
+> now:
+```bash 
+chmod +x apply.sh
+```
+> to run the script:
+```bash
+./apply.sh
+```
+
+should work!
 
 *details*:
 > wm: openbox
