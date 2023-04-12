@@ -63,3 +63,14 @@ should work!
 - apply everything 
 
 retart to see the magic
+
+
+# tokyo-night 2.0!
+
+its mostly the same with a little changes 
+
+![Screenshot_2023-04-12-13-51-17_1600x900](https://user-images.githubusercontent.com/85402808/231404571-615ebe4d-8ad7-4409-85f5-a1674eed8978.png)
+
+![Screenshot_2023-04-12-13-51-40_1600x900](https://user-images.githubusercontent.com/85402808/231404638-4a299f40-d330-45a4-a710-9706940ee200.png)
+
+do the same and replace the openbox and openbox-themes folder 
