@@ -4,7 +4,7 @@ personal tokyo night theming :)
 **note**:
 none of this are my own. all the credit goes to the creaters of the various files used in this rice\
 
-**applyscript is now available:**
+**applyscript is now available:**(would reckon to avoid this)
 
 to install:
 > open thunar and go to the place u have downloaded the file
