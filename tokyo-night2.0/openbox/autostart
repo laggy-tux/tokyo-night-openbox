@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+
+## Copyright (C) 2020-2022 Aditya Shakya <adi1090x@gmail.com>
+
+## Kill if already running
+killall -9 xfsettingsd picom polybar mpd dunst ksuperkey xfce4-power-manager
+
+## Restore Wallpaper
+nitrogen --restore
+
+## xfce4-settings daemon
+xfsettingsd &
+
+## polkit agent
+if [[ ! `pidof xfce-polkit` ]]; then
+	/usr/lib/xfce-polkit/xfce-polkit &
+fi
+
+## Enable power management
+xfce4-power-manager &
+
+## Start Compositing Manager
+exec picom &
+
+## Launch Polybar
+bash ~/.config/openbox-themes/themes/hack/polybar/launch.sh
+
+## Notification Daemon
+exec dunst &
+
+## Start Music Player Daemon
+exec mpd &
+
+
+
+## Thunar Daemon
+exec thunar --daemon &
+
+## Enable Super Keys For Menu
+ksuperkey -e 'Super_L=Alt_L|F1' &
+ksuperkey -e 'Super_R=Alt_L|F1' &
+
